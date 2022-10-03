@@ -24,64 +24,64 @@ var obj =
 	"section": {
 		"phone": [
 			{
-				"value": "+55 (11) 99659-9059",
+				"value": "020 3642 6575",
 				"label": "mobile",
 				"microformatTag": "mobile",
 				"vcfTag": "mobile" 
 			},
 			{
-				"value": "avibrazilⓐgmail.com",
+				"value": "none",
 				"label": "facetime"
 			},
 			{
-				"value": "avibrazilⓐgmail.com",
+				"value": "none",
 				"label": "hangouts"
 			},
 			{
-				"value": "avibrazil",
+				"value": "none",
 				"label": "skype"
 			},
 		],
 
 		"mail": [
 			{
-				"value": "aviⓐciandt.com",
+				"value": "securityⓐlokk.ml",
 				"label": "work"
 			},
 			{
-				"value": "aviⓐunix.sh",
+				"value": "tipsⓐlokk-security.ml",
 				"label": "personal"
 			},
 		],
 		
 		"social": [
 			{
-				"value": "avibrazil",
+				"value": "LOKK Security",
 				"label": "linkedin"
 			},
 			{
-				"value": "avibrazil",
+				"value": "LOKK Security",
 				"label": "facebook"
 			},
 			{
-				"value": "avibrazil",
+				"value": "none",
 				"label": "github"
 			}
 		],
 		
 		"publications": [
 			{
-				"value": "Avi.Alkalay.net",
+				"value": "lokk-security.ml/bl/",
 				"label": "blog",
 				"protocol": "https"
 			},
 			{
-				"value": "fb.com/AviOnInformationTechnology",
+				"value": "facebook.com/people/LOKK-Security/100086566835972/",
 				"label": "facebook",
 				"protocol": "https"
 			},
 			{
-				"value": "Avi.Alkalay.net/bio",
+				"value": "lokk-security.ml/bio",
 				"label": "minibio",
 				"protocol": "https"
 			}
@@ -90,13 +90,13 @@ var obj =
 		"other": [
 			{
 				"label": "Bitcoin",
-				"value": "12c8eL6HVeNgXPf8dyoymgVahJWqgnc4Gk"
+				"value": "none"
 			}
 		],
 		
 		"qrcode": [
 			{
-				"label": "Scan with iPhone camera, Wallet or any QR reader"
+				"label": "Scan with Phone camera, or any QR reader"
 			}
 		]
 	}	
