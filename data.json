@@ -56,11 +56,11 @@ var obj =
 		
 		"social": [
 			{
-				"value": "LOKK Security",
+				"value": "none",
 				"label": "linkedin"
 			},
 			{
-				"value": "LOKK Security",
+				"value": "none",
 				"label": "facebook"
 			},
 			{
@@ -71,8 +71,8 @@ var obj =
 		
 		"publications": [
 			{
-				"value": "lokk-security.ml/bl/",
-				"label": "blog",
+				"value": "lokk-security.ml",
+				"label": "website",
 				"protocol": "https"
 			},
 			{
