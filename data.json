@@ -9,12 +9,12 @@ var obj =
 	"ganalytics": "UA-629709-5",
 	
 	"name": {
-		"first": "Avi",
-		"last": "Alkalay",
+		"first": "LOKK",
+		"last": "Security",
 	},
-	"title": "Data Scientist, Data Engineer, Teacher and Hacker",
-	"company": "CI&T and Digital House",
-	"department": "Data",
+	"title": "CCTV Installer and Maintenance Company",
+	"company": "LOKK Security",
+	"department": "CCTV Installer and Maintenance Company",
 
 	"columns": {
 		"1": ["phone", "publications", "other","mail"],
